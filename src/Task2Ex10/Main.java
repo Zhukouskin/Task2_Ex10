@@ -1,5 +1,7 @@
 package Task2Ex10;
-
+/*
+Написать программу, которая выводит таблицу квадратов первых десяти целых положительных чисел от 0 до 100
+ */
 public class Main {
 
     public static void main(String[] args) {
